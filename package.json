@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "flexure": "github:daniellejackson-dialexa/flexure",
+    "swagger-ui-express": "^5.0.0",
     "webpack": "^5.88.2",
     "webpack-node-externals": "^3.0.0"
   },
